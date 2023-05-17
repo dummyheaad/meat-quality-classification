@@ -37,7 +37,7 @@ Membangun sebuah model berbasis Algoritma Decision Tree yang berfungsi untuk men
 ### Link
 [Meat Freshness Image Dataset](https://www.kaggle.com/datasets/vinayakshanawad/meat-freshness-image-dataset)
 ### Deskripsi
-Dataset ini berisi 2266 gambar daging merah yang telah diberi label fresh, half-fresh, dan spoiled pada penamaannya.  
+Dataset ini berisi 2266 gambar daging sapi yang telah diberi label fresh, half-fresh, dan spoiled pada penamaannya.  
 Terdapat sebanyak 1816 gambar yang digunakan sebagai data latih dan sebanyak 452 gambar yang digunakan sebagai data validasi / tes.  
 ## Tools
 - Google Colab
