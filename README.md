@@ -1,6 +1,6 @@
-# Identifikasi Kualitas Daging Menggunakan Algoritma Decision Tree
+# Identifikasi Kualitas Daging Sapi Menggunakan Algoritma Decision Tree
 ---
-## Oleh Kelompok 4 Paralel 3 Mata Kuliah Pengolahan Citra Digital
+## Oleh Kelompok 2 Paralel 3 Mata Kuliah Pengolahan Citra Digital
 <table>
     <tr>
         <th>Nama</th>
@@ -31,7 +31,7 @@
 ---
 
 ## Tujuan
-Membangun sebuah model berbasis Algoritma Decision Tree yang berfungsi untuk mengidentifikasi kualitas dari suatu citra daging merah.
+Membangun sebuah model berbasis Algoritma Decision Tree yang berfungsi untuk mengidentifikasi kualitas dari suatu citra daging sapi.
 
 ## Dataset
 ### Link
